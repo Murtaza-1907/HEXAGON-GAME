@@ -1,0 +1,12 @@
+html, body {
+  border: 5px cyan;
+  border-color: black;
+  margin-top: 70px;
+  margin-left: 135px;
+  margin: 100;
+  /* padding: auto; */
+}
+canvas {
+  align-self: auto;
+  display: block;
+}
